@@ -1,10 +1,10 @@
 ## Hi, i'm Erik Santos
 
-<p><b>👨‍💻 Estudante de ADS | Germinare Tech <br></b>
+<p><b>👨‍💻 Estudante DEV | Germinare Tech <br></b>
 <br>
-Cursando ADS na Germinare Tech! Me interesso por <b>Back-end</b></p>
+Cursando na Germinare Tech! Me interesso por <b>Back-end</b></p>
 
-<p>Minhas principais linguagens são <b>Python e Java</b>, mas buscando algo novo como <b>C#</b>.</p>
+<p>Minhas principais linguagens são <b>Python e Java</b>, mas busco algo novo como <b>C#</b>.</p>
 
 ##
 
@@ -24,12 +24,12 @@ Cursando ADS na Germinare Tech! Me interesso por <b>Back-end</b></p>
 <br>
 
 <div>
-  <img height="180mm" src="https://github-readme-stats.vercel.app/api?username=GuedesTech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
+  <img height="180mm" src="https://github-readme-stats.vercel.app/api?username=Kireway&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
 </div>
 
 <br>
 
 <div> 
-  <a href="https://instagram.com/guedeesk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilhermeguedes350@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/e_.santoszx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:erikfelipe200911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>

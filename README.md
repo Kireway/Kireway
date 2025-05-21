@@ -1,6 +1,6 @@
 ## Hi, i'm Erik Santos
 
-<p><b>👨‍💻 Estudante DEV | Germinare Tech <br></b>
+<p><b>👨‍💻 Estudante ADS | Germinare Tech <br></b>
 <br>
 Cursando na Germinare Tech! Me interesso por <b>Back-end</b></p>
 

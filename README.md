@@ -5,6 +5,7 @@
 Cursando na Germinare Tech! Me interesso por <b>Back-end</b></p>
 
 <p>Minhas principais linguagens são <b>Python e Java</b>, mas busco algo novo como <b>C#</b>.</p>
+LinkedIn: https://www.linkedin.com/in/erik-felipe-santos-silva-71b837226/ | Erik Felipe Santos Silva
 
 ##
 
